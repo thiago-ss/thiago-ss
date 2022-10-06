@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Thiago
 #### A web development student from Brazil
 
-### Skills: HTML - CSS - JavaScript - SASS - TypeScript - Angular
+### Skills
 - HTML
 - CSS
   - SASS
