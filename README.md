@@ -4,7 +4,7 @@
 ### Skills
 - HTML
 - CSS
-  - SASS
+- SASS
 - JavaScript (ES6+)
 - TypeScript
 - Angular
