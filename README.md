@@ -1,8 +1,14 @@
 ### Hi there 👋, my name is Thiago
 #### A web development student from Brazil
 
-Skills: HTML - CSS - JavaScript - SASS - TypeScript - Angular
-
+###Skills: HTML - CSS - JavaScript - SASS - TypeScript - Angular
+- HTML
+- CSS
+  - SASS
+- JavaScript (ES6+)
+- TypeScript
+- Angular
+- Vue
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thiago-ss)  
