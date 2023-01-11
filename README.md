@@ -1,7 +1,4 @@
-### Hi there 👋, my name is Thiago
-#### A web development student from Brazil
-
-### Skills
+# Skills
 - Angular
 - Vue
 - React
