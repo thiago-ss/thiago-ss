@@ -1,4 +1,4 @@
-<h3 align="center">Front-end Developer</h3>
+<h3>Front-end Developer</h3>
 
 <span>Currently working at <a href="https://compass.uol/en/home" style="color: #FFCE00; font-weight: 600;">Compass UOL</a></span>
 
