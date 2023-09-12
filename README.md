@@ -2,7 +2,7 @@
 
 <span>Currently working at <a href="https://compass.uol/en/home" style="color: #FFCE00; font-weight: 600;">Compass UOL</a></span>
 
-Learning **SolidJS, Svelte Kit and Express**
+Learning **Elysia, HTMX and Astro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
