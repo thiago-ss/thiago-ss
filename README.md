@@ -1,6 +1,7 @@
 <h3>Front-end Developer</h3>
 
 <span>Previously at <a href="https://compass.uol/en/home" style="color: #FFCE00; font-weight: 600;">Compass UOL</a></span>
+<br/>
 <span>Working at <a href="https://gogenetic.com.br/" style="color: #2A073D; font-weight: 600;">GoGenetic</a></span>
 
 Learning **Node and software architecture**
