@@ -1,8 +1,9 @@
 <h3>Front-end Developer</h3>
 
-<span>Currently working at <a href="https://compass.uol/en/home" style="color: #FFCE00; font-weight: 600;">Compass UOL</a></span>
+<span>Previously at <a href="https://compass.uol/en/home" style="color: #FFCE00; font-weight: 600;">Compass UOL</a></span>
+<span>Working at <a href="https://gogenetic.com.br/" style="color: #2A073D; font-weight: 600;">GoGenetic</a></span>
 
-Learning **Elysia, HTMX and Astro**
+Learning **Node and software architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
